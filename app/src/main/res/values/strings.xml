@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">APK Reverse Engineering AI</string>
+    <string name="dashboard_title">Security Audit Command Center</string>
+    <string name="total_analyses">Total Analyses</string>
+    <string name="completed_jobs">Completed Jobs</string>
+    <string name="critical_findings">Critical Findings</string>
+    <string name="api_references">API References</string>
+</resources>

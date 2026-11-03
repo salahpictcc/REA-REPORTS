@@ -1,0 +1,6 @@
+{
+  "name": "APK Reverse Engineering AI",
+  "description": "Cybersecurity analysis dashboard for inspecting APKs, tracking jobs, findings, and API references.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
